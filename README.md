@@ -41,7 +41,7 @@ To use this project, follow these steps:
 
 3. Create a `.env` file in the project directory and set the `PALM_API_KEY` environment variable to your Google PALM API key.
 
-4. Execute the `main.py` script:
+4. Execute the `app.py` script:
 
    ```bash
    python app.py
@@ -51,4 +51,4 @@ To use this project, follow these steps:
 
 ## Note
 
-This is a example of customizing llm and embedding model in llama-index. it can also be extended and customized further according to your needs.
+This is a basic example of customizing llm and embedding model in llama-index. it can also be extended and customized further according to your needs.
