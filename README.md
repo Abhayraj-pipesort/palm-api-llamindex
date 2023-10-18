@@ -2,7 +2,7 @@
 This project demonstrates how to customize llm and embeddings in Llamaindex
 
 ## Project Overview
-his is a simple Python application that allows you to add a document and ask questions about its content. The application utilizes Google's PaLM API for question answering and embedding.
+This is a simple Python application that allows you to add a document and ask questions about its content. The application utilizes Google's PaLM API for question answering and embedding.
 
 ## Getting Started
 
