@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 from llama_index import (
     VectorStoreIndex,
     SimpleDirectoryReader,
-    LLMPredictor,
     ServiceContext,
 )
 from llama_index.llms import PaLM
